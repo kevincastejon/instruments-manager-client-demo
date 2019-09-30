@@ -1,0 +1,36 @@
+.TakeDropItem{
+  margin-top:10px;
+  text-align: left;
+  background-color: #f5f8fb;
+  border-radius: 10px;
+  padding-bottom:5px;
+  padding-left:5px;
+  padding-right:5px;
+}
+
+.editBtnSpan{
+  margin-right: 5px;
+}
+.instrumentItemEditBtn{
+  margin-top: 30px;
+  white-space: nowrap;
+}
+.instrumentItemUser{
+  margin-left: 30px;
+  margin-bottom:-10px;
+}
+.instrumentItemCom{
+  /* display: inline-block; */
+margin-left: 30px;
+}
+.itemIcon{
+    display: inline-block;
+    margin-right: 5px;
+}
+.itemCom{
+    display: inline-block;
+    width: 90%;
+}
+.instrumentItemComTextArea{
+  resize: none;
+}

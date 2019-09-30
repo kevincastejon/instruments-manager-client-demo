@@ -1,0 +1,21 @@
+.Users{
+}
+.header{
+  padding: 5px;
+  background-color: #e3e6ff;
+}
+.upList{
+  width: 80%;
+  margin: auto
+ }
+ .filters{
+   width: 200px;
+   text-align: left;
+  }
+.userList{
+  margin: auto;
+  width: 80%;
+  margin-bottom: 50px
+  /* width: 500px; */
+  /* margin: auto; */
+}

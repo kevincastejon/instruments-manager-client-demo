@@ -41,7 +41,7 @@ export default class App extends React.Component {
   render() {
     const { authenticated } = this.state;
     return (
-      <Router basename="/demos/instruments-manager">
+      <Router basename={Globals.baseURL}>
         <div className={styles.App}>
           <img width="200px" src={logo} alt="logo" />
           <h3>Page de gestion des instruments</h3>
